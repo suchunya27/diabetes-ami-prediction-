@@ -1,4 +1,4 @@
-# Association Between C-Reactive Protein (CRP) Levels and Acute Myocardial Infarction in Patients with Type 2 Diabetes
+# The Association Between C-Reactive Protein Levels and Acute Myocardial Infarction in Diabetic Patients: A Comparative Analysis Using Logistic Regression and k-Nearest Neighbors
 
 This repository contains data analysis and results from a study investigating the relationship between **C-reactive protein (CRP)** levels and the occurrence of **acute myocardial infarction (MI)** in patients with **type 2 diabetes (T2D)**. 
 
